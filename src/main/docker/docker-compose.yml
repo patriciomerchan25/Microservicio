@@ -54,7 +54,7 @@ volumes:
     driver_opts:
       o: bind
       type: none
-      device: /Users/cristiantimbi/datapg
+      device: C:/Users/ASUS/wmerchan/datapg
 
 networks:
   datalogger_net:
